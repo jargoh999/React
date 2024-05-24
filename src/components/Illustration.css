@@ -1,0 +1,14 @@
+/* src/Illustration.css */
+ .illustration img{
+  display: flex;
+  height: 400px;
+  margin-top: 30px;
+
+  }
+  
+  /* .illustration img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+} */

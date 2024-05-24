@@ -1,0 +1,39 @@
+.signup-container {
+    display: flex;
+    height: 100vh;
+    max-width: fit-content;
+        
+  }
+  
+  .form-container {
+    flex: 20;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: auto;
+  }
+  
+  p {
+    margin-top: 20px;
+  }
+  
+  a {
+    color: #9b59b6;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+  }
+  
+  p {
+    margin-bottom: 20px;
+    color: #777;
+  }
+  
